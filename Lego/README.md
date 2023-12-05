@@ -1,3 +1,3 @@
 # LEGO Project!
 
-![alt text](lego.png)
+![alt text](lego.jpg)
