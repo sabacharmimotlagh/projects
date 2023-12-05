@@ -1,3 +1,3 @@
 # Projects
 
-Some of the data science and machine learning projects that I have done during the recent years!
+Some of the data science and machine learning mini projects that I have done during the recent years!
